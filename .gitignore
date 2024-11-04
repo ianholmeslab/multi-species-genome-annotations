@@ -1,0 +1,7 @@
+#Git ignore rules
+
+ data/
+ logs/
+ *.pyc
+ __pycache__/
+ .ipynb_checkpoints/
