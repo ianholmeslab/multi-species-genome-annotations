@@ -22,8 +22,8 @@ Customizable Storage: Saves each species' files in multi_species/data/<species_n
 
 # Clone the Repository:
 
-git clone https://github.com/<your-username>/multi_species_genome_annotation_downloader.git
-cd multi_species_genome_annotation_downloader
+git clone https://github.com/<your-username>/multi_species_genome_annotations.git
+cd multi_species_genome_annotations
 
 Install Required Libraries: This project uses requests for HTTP requests. Install it via pip:
 pip install requests
